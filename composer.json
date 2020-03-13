@@ -20,8 +20,8 @@
     ],
     "require": {
         "php": ">=7.0",
-        "symfony/var-dumper": "~3.3|~4.0",
-        "nesbot/carbon": "^1.26 || ^2.00",
+        "symfony/var-dumper": ">=4.0",
+        "nesbot/carbon": "^1.26 || ^2.0",
         "ramsey/uuid": "^3.7"
     },
     "require-dev": {
